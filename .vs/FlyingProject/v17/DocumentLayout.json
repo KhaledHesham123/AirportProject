@@ -1,0 +1,1821 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\shared\\dbinitializerservice\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\shared\\dbinitializerservice\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\shared\\dbinitializerservice\\idbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\shared\\dbinitializerservice\\idbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\project\\repo\\data\\migrations\\airlinedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\project\\repo\\data\\migrations\\airlinedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\cqrs\\passnger\\commends\\createpassngercommend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\cqrs\\passnger\\commends\\createpassngercommend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\shared\\attachmentservice\\attachmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\shared\\attachmentservice\\attachmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\views\\user\\getusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\views\\user\\getusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\project.core\\dtos\\viewmodles\\userviewmodle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\project.core\\dtos\\viewmodles\\userviewmodle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\views\\user\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\views\\user\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\shared\\genertapasswordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\shared\\genertapasswordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\project.repo\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\project.repo\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\shared\\middlewares\\transactionmiddlerware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\shared\\middlewares\\transactionmiddlerware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\project.repo\\data\\context\\airlinedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\project.repo\\data\\context\\airlinedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\cqrs\\authentication\\getcurrentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\cqrs\\authentication\\getcurrentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\views\\acount\\getcurentuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\views\\acount\\getcurentuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\project.core\\dtos\\authentivationdtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\project.core\\dtos\\authentivationdtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\controllers\\acountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\controllers\\acountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\cqrs\\flights\\flightorchestor\\flightbookorchestor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\cqrs\\flights\\flightorchestor\\flightbookorchestor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\views\\user\\createrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\views\\user\\createrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\cqrs\\authentication\\logoutcommned.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\cqrs\\authentication\\logoutcommned.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\cqrs\\authentication\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\cqrs\\authentication\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\cqrs\\authentication\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\cqrs\\authentication\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\project.service\\flightavailabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\project.service\\flightavailabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\controllers\\flightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\controllers\\flightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\project.core\\dtos\\viewmodles\\roleviewmodle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\project.core\\dtos\\viewmodles\\roleviewmodle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\project.service\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\project.service\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\views\\flight\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\views\\flight\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\project.core\\servicecontrect\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\project.core\\servicecontrect\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\project.core\\entities\\identity\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\project.core\\entities\\identity\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\cqrs\\tickets\\queries\\getticketbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\cqrs\\tickets\\queries\\getticketbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\cqrs\\tickets\\commends\\addticketcommend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\cqrs\\tickets\\commends\\addticketcommend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\cqrs\\flights\\flightorchestor\\flightupdateorchestor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\cqrs\\flights\\flightorchestor\\flightupdateorchestor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\cqrs\\airline\\commends\\addairlinescommend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\cqrs\\airline\\commends\\addairlinescommend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\cqrs\\aircrafts\\commends\\updateaircraftquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\cqrs\\aircrafts\\commends\\updateaircraftquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\cqrs\\flights\\flightorchestor\\getavailableflightorchestrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\cqrs\\flights\\flightorchestor\\getavailableflightorchestrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\project.core\\entities\\main\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\project.core\\entities\\main\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\cqrs\\flights\\quries\\getallflightsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\cqrs\\flights\\quries\\getallflightsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\views\\flight\\getavailableflights.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\views\\flight\\getavailableflights.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\project.core\\servicecontrect\\iflightavailabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\project.core\\servicecontrect\\iflightavailabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\views\\flight\\getallflights.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\views\\flight\\getallflights.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\shared\\basequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\shared\\basequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\project.core\\entities\\main\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\project.core\\entities\\main\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\shared\\paginatedlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\shared\\paginatedlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\shared\\endpointrespone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\shared\\endpointrespone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\project.repo\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\project.repo\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\cqrs\\airline\\commends\\updateairlinescommend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\cqrs\\airline\\commends\\updateairlinescommend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\project.core\\entities\\main\\airlines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\project.core\\entities\\main\\airlines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\project.core\\dtos\\airlinedto\\updateairlinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\project.core\\dtos\\airlinedto\\updateairlinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\project.core\\entities\\main\\aircraft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\project.core\\entities\\main\\aircraft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\project.core\\dtos\\aircraftdtos\\addaircraftdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\project.core\\dtos\\aircraftdtos\\addaircraftdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\cqrs\\flights\\commends\\flightupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\cqrs\\flights\\commends\\flightupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\cqrs\\flights\\quries\\getflightbyidqyery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\cqrs\\flights\\quries\\getflightbyidqyery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\project.core\\dtos\\flightsdto\\flightupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\project.core\\dtos\\flightsdto\\flightupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\project.core\\dtos\\viewmodles\\updateflightviewmodle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\project.core\\dtos\\viewmodles\\updateflightviewmodle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\views\\flight\\flightupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\views\\flight\\flightupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\project.core\\entities\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\project.core\\entities\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\project.repo\\data\\migrations\\20251011135824_create2t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\project.repo\\data\\migrations\\20251011135824_create2t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\project.repo\\data\\migrations\\20251009190533_create3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\project.repo\\data\\migrations\\20251009190533_create3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\project.core\\entities\\main\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\project.core\\entities\\main\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\project.repo\\data\\migrations\\20251005183807_create1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\project.repo\\data\\migrations\\20251005183807_create1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\cqrs\\seats\\coomends\\getavailableseatquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\cqrs\\seats\\coomends\\getavailableseatquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\cqrs\\passnger\\query\\getpassngerbypassportnumberquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\cqrs\\passnger\\query\\getpassngerbypassportnumberquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\shared\\specification\\flighspicification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\shared\\specification\\flighspicification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\cqrs\\flights\\quries\\getflightbyflightnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\cqrs\\flights\\quries\\getflightbyflightnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\project.core\\newfolder\\interfacecontrect\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\project.core\\newfolder\\interfacecontrect\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\project.core\\dtos\\airlinedto\\airlinecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\project.core\\dtos\\airlinedto\\airlinecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\project.repo\\repositories\\flyightrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\project.repo\\repositories\\flyightrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\shared\\specification\\ticketspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\shared\\specification\\ticketspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\shared\\specification\\passngerspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\shared\\specification\\passngerspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\project.repo\\repositories\\seatsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\project.repo\\repositories\\seatsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\shared\\specification\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\shared\\specification\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\project.repo\\repositories\\ticketrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\project.repo\\repositories\\ticketrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\project.core\\newfolder\\interfacecontrect\\iticketsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\project.core\\newfolder\\interfacecontrect\\iticketsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\shared\\specification\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\shared\\specification\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\project.core\\newfolder\\interfacecontrect\\iflightrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\project.core\\newfolder\\interfacecontrect\\iflightrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\project.core\\newfolder\\interfacecontrect\\isetsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\project.core\\newfolder\\interfacecontrect\\isetsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\shared\\specification\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\shared\\specification\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\project.core\\entities\\main\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\project.core\\entities\\main\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\project.core\\entities\\main\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\project.core\\entities\\main\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\project.core\\entities\\main\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\project.core\\entities\\main\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\views\\flight\\ticketdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\views\\flight\\ticketdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\project.core\\dtos\\viewmodles\\rigsterviewmodler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\project.core\\dtos\\viewmodles\\rigsterviewmodler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\views\\acount\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\views\\acount\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\views\\acount\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\views\\acount\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\project.core\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\project.core\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\shared\\attachmentservice\\iattachmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\shared\\attachmentservice\\iattachmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\cqrs\\cqrscontracts\\iupdateflightscommandorchestrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\cqrs\\cqrscontracts\\iupdateflightscommandorchestrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\flyingproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\flyingproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\project.core\\dtos\\viewmodles\\loginviewmodle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\project.core\\dtos\\viewmodles\\loginviewmodle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\project.repo\\data\\configration\\passengerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\project.repo\\data\\configration\\passengerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\project.repo\\repositories\\passngerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\project.repo\\repositories\\passngerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\project.core\\newfolder\\interfacecontrect\\ipassengerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\project.core\\newfolder\\interfacecontrect\\ipassengerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\project.repo\\data\\identity\\identitycontext\\identityapplicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\project.repo\\data\\identity\\identitycontext\\identityapplicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\project.repo\\data\\configration\\flightconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\project.repo\\data\\configration\\flightconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\views\\flight\\book.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\views\\flight\\book.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\views\\flight\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\views\\flight\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\project.core\\dtos\\ticktdto\\createticktdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\project.core\\dtos\\ticktdto\\createticktdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\project.core\\servicecontrect\\iflightbookorchestor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\project.core\\servicecontrect\\iflightbookorchestor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\project.core\\dtos\\viewmodles\\flightbookviewmodle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\project.core\\dtos\\viewmodles\\flightbookviewmodle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\project.core\\mappingprofiles\\flightprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\project.core\\mappingprofiles\\flightprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|c:\\users\\eng khaled\\source\\repos\\flyingproject\\flyingproject\\project.repo\\data\\configration\\ticketconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FD2251-818C-4578-8274-CB8156668FB4}|FlyingProject\\FlyingProject.csproj|solutionrelative:flyingproject\\project.repo\\data\\configration\\ticketconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.Repo\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Project.Repo\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.Repo\\Repositories\\Repository.cs",
+              "RelativeToolTip": "FlyingProject\\Project.Repo\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAjwLsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T15:19:44.668Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Shared\\DbInitializerService\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Shared\\DbInitializerService\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Shared\\DbInitializerService\\DbInitializer.cs",
+              "RelativeToolTip": "FlyingProject\\Shared\\DbInitializerService\\DbInitializer.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAADIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T15:35:34.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Shared\\DbInitializerService\\IDbInitializer.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Shared\\DbInitializerService\\IDbInitializer.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Shared\\DbInitializerService\\IDbInitializer.cs",
+              "RelativeToolTip": "FlyingProject\\Shared\\DbInitializerService\\IDbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T15:35:25.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Controllers\\UserController.cs",
+              "RelativeToolTip": "FlyingProject\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:43:25.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "attachmentService.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Shared\\attachmentService\\attachmentService.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Shared\\attachmentService\\attachmentService.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Shared\\attachmentService\\attachmentService.cs",
+              "RelativeToolTip": "FlyingProject\\Shared\\attachmentService\\attachmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T17:23:18.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AirlineDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project\\Repo\\Data\\Migrations\\AirlineDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Project\\Repo\\Data\\Migrations\\AirlineDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project\\Repo\\Data\\Migrations\\AirlineDbContextModelSnapshot.cs",
+              "RelativeToolTip": "FlyingProject\\Project\\Repo\\Data\\Migrations\\AirlineDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAECAAAAAAAAAAAAwBkCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T14:45:51.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Program.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Program.cs",
+              "RelativeToolTip": "FlyingProject\\Program.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAhwIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T16:08:08.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetUsers.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Views\\User\\GetUsers.cshtml",
+              "RelativeDocumentMoniker": "FlyingProject\\Views\\User\\GetUsers.cshtml",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Views\\User\\GetUsers.cshtml",
+              "RelativeToolTip": "FlyingProject\\Views\\User\\GetUsers.cshtml",
+              "ViewState": "AgIAADQAAAAAAAAAAAAiwE8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T16:52:03.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreatePassngerCommend.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\CQRS\\Passnger\\Commends\\CreatePassngerCommend.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\CQRS\\Passnger\\Commends\\CreatePassngerCommend.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\CQRS\\Passnger\\Commends\\CreatePassngerCommend.cs",
+              "RelativeToolTip": "FlyingProject\\CQRS\\Passnger\\Commends\\CreatePassngerCommend.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T17:01:22.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserviewModle.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\DTOS\\ViewModles\\UserviewModle.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Project.core\\DTOS\\ViewModles\\UserviewModle.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\DTOS\\ViewModles\\UserviewModle.cs",
+              "RelativeToolTip": "FlyingProject\\Project.core\\DTOS\\ViewModles\\UserviewModle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T15:46:21.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "createUSer.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Views\\User\\createUSer.cshtml",
+              "RelativeDocumentMoniker": "FlyingProject\\Views\\User\\createUSer.cshtml",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Views\\User\\createUSer.cshtml",
+              "RelativeToolTip": "FlyingProject\\Views\\User\\createUSer.cshtml",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-18T20:35:42.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GenertaPasswordHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Shared\\GenertaPasswordHelper.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Shared\\GenertaPasswordHelper.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Shared\\GenertaPasswordHelper.cs",
+              "RelativeToolTip": "FlyingProject\\Shared\\GenertaPasswordHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T18:19:37.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AirlineDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.Repo\\Data\\Context\\AirlineDbContext.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Project.Repo\\Data\\Context\\AirlineDbContext.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.Repo\\Data\\Context\\AirlineDbContext.cs",
+              "RelativeToolTip": "FlyingProject\\Project.Repo\\Data\\Context\\AirlineDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAhwA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T18:42:30.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UnitOfwork.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.Repo\\UnitOfwork.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Project.Repo\\UnitOfwork.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.Repo\\UnitOfwork.cs",
+              "RelativeToolTip": "FlyingProject\\Project.Repo\\UnitOfwork.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAASwEEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T16:08:36.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TransactionMiddlerWare.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Shared\\MiddleWares\\TransactionMiddlerWare.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Shared\\MiddleWares\\TransactionMiddlerWare.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Shared\\MiddleWares\\TransactionMiddlerWare.cs",
+              "RelativeToolTip": "FlyingProject\\Shared\\MiddleWares\\TransactionMiddlerWare.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAhwCUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T14:11:20.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetcurrentUser.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\CQRS\\Authentication\\GetcurrentUser.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\CQRS\\Authentication\\GetcurrentUser.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\CQRS\\Authentication\\GetcurrentUser.cs",
+              "RelativeToolTip": "FlyingProject\\CQRS\\Authentication\\GetcurrentUser.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAEwBkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T17:24:36.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "getCurentUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Views\\Acount\\getCurentUser.cshtml",
+              "RelativeDocumentMoniker": "FlyingProject\\Views\\Acount\\getCurentUser.cshtml",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Views\\Acount\\getCurentUser.cshtml",
+              "RelativeToolTip": "FlyingProject\\Views\\Acount\\getCurentUser.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAASwA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-16T17:37:05.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "USerDto.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\DTOS\\AuthentivationDtos\\USerDto.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Project.core\\DTOS\\AuthentivationDtos\\USerDto.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\DTOS\\AuthentivationDtos\\USerDto.cs",
+              "RelativeToolTip": "FlyingProject\\Project.core\\DTOS\\AuthentivationDtos\\USerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T18:44:57.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AcountController.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Controllers\\AcountController.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Controllers\\AcountController.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Controllers\\AcountController.cs",
+              "RelativeToolTip": "FlyingProject\\Controllers\\AcountController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAhwGkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T14:34:14.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FlightBookOrchestor.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\CQRS\\Flights\\FlightOrchestor\\FlightBookOrchestor.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\CQRS\\Flights\\FlightOrchestor\\FlightBookOrchestor.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\CQRS\\Flights\\FlightOrchestor\\FlightBookOrchestor.cs",
+              "RelativeToolTip": "FlyingProject\\CQRS\\Flights\\FlightOrchestor\\FlightBookOrchestor.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAIA4wCgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T15:10:48.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Createrole.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Views\\User\\Createrole.cshtml",
+              "RelativeDocumentMoniker": "FlyingProject\\Views\\User\\Createrole.cshtml",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Views\\User\\Createrole.cshtml",
+              "RelativeToolTip": "FlyingProject\\Views\\User\\Createrole.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwCEAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T18:16:49.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Signup.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\CQRS\\Authentication\\Signup.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\CQRS\\Authentication\\Signup.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\CQRS\\Authentication\\Signup.cs",
+              "RelativeToolTip": "FlyingProject\\CQRS\\Authentication\\Signup.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T16:43:34.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FlyingProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FlyingProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAiwIEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T18:24:56.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "logoutCommned.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\CQRS\\Authentication\\logoutCommned.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\CQRS\\Authentication\\logoutCommned.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\CQRS\\Authentication\\logoutCommned.cs",
+              "RelativeToolTip": "FlyingProject\\CQRS\\Authentication\\logoutCommned.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T16:28:13.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\CQRS\\Authentication\\login.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\CQRS\\Authentication\\login.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\CQRS\\Authentication\\login.cs",
+              "RelativeToolTip": "FlyingProject\\CQRS\\Authentication\\login.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAASwCkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T21:26:37.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FlightAvailabilityService.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.Service\\FlightAvailabilityService.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Project.Service\\FlightAvailabilityService.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.Service\\FlightAvailabilityService.cs",
+              "RelativeToolTip": "FlyingProject\\Project.Service\\FlightAvailabilityService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAADwvzQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T16:35:17.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FlyingProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FlyingProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-16T18:07:15.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FlyingProject\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T17:33:43.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FlightController.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Controllers\\FlightController.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Controllers\\FlightController.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Controllers\\FlightController.cs",
+              "RelativeToolTip": "FlyingProject\\Controllers\\FlightController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T20:28:52.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "FlyingProject\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "FlyingProject\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T16:44:06.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FlyingProject\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "FlyingProject\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T16:42:38.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RoleviewModle.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\DTOS\\ViewModles\\RoleviewModle.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Project.core\\DTOS\\ViewModles\\RoleviewModle.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\DTOS\\ViewModles\\RoleviewModle.cs",
+              "RelativeToolTip": "FlyingProject\\Project.core\\DTOS\\ViewModles\\RoleviewModle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T18:12:49.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FlyingProject\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FlyingProject\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T16:42:36.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "FlyingProject\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "FlyingProject\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-16T18:07:17.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.Service\\JwtService.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Project.Service\\JwtService.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.Service\\JwtService.cs",
+              "RelativeToolTip": "FlyingProject\\Project.Service\\JwtService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAiwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T14:34:06.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Views\\Flight\\Index.cshtml",
+              "RelativeDocumentMoniker": "FlyingProject\\Views\\Flight\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Views\\Flight\\Index.cshtml",
+              "RelativeToolTip": "FlyingProject\\Views\\Flight\\Index.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T18:21:20.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\ServiceContrect\\IJwtService.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Project.core\\ServiceContrect\\IJwtService.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\ServiceContrect\\IJwtService.cs",
+              "RelativeToolTip": "FlyingProject\\Project.core\\ServiceContrect\\IJwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T14:30:00.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\appsettings.json",
+              "RelativeDocumentMoniker": "FlyingProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\appsettings.json",
+              "RelativeToolTip": "FlyingProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-22T20:56:39.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\Entities\\Identity\\AppRole.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Project.core\\Entities\\Identity\\AppRole.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\Entities\\Identity\\AppRole.cs",
+              "RelativeToolTip": "FlyingProject\\Project.core\\Entities\\Identity\\AppRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T17:48:20.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AddTicketCommend.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\CQRS\\Tickets\\Commends\\AddTicketCommend.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\CQRS\\Tickets\\Commends\\AddTicketCommend.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\CQRS\\Tickets\\Commends\\AddTicketCommend.cs",
+              "RelativeToolTip": "FlyingProject\\CQRS\\Tickets\\Commends\\AddTicketCommend.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T14:17:32.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FlightUpdateOrchestor.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\CQRS\\Flights\\FlightOrchestor\\FlightUpdateOrchestor.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\CQRS\\Flights\\FlightOrchestor\\FlightUpdateOrchestor.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\CQRS\\Flights\\FlightOrchestor\\FlightUpdateOrchestor.cs",
+              "RelativeToolTip": "FlyingProject\\CQRS\\Flights\\FlightOrchestor\\FlightUpdateOrchestor.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAwE4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T15:13:19.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AddAirlinesCommend.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\CQRS\\Airline\\Commends\\AddAirlinesCommend.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\CQRS\\Airline\\Commends\\AddAirlinesCommend.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\CQRS\\Airline\\Commends\\AddAirlinesCommend.cs",
+              "RelativeToolTip": "FlyingProject\\CQRS\\Airline\\Commends\\AddAirlinesCommend.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T14:34:02.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GetTicketByidQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\CQRS\\Tickets\\Queries\\GetTicketByidQuery.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\CQRS\\Tickets\\Queries\\GetTicketByidQuery.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\CQRS\\Tickets\\Queries\\GetTicketByidQuery.cs",
+              "RelativeToolTip": "FlyingProject\\CQRS\\Tickets\\Queries\\GetTicketByidQuery.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAvwBwAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T20:03:16.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UpdateAircraftQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\CQRS\\Aircrafts\\Commends\\UpdateAircraftQuery.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\CQRS\\Aircrafts\\Commends\\UpdateAircraftQuery.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\CQRS\\Aircrafts\\Commends\\UpdateAircraftQuery.cs",
+              "RelativeToolTip": "FlyingProject\\CQRS\\Aircrafts\\Commends\\UpdateAircraftQuery.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAewCUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T16:24:48.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "GetAvailableFlightOrchestrator.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\CQRS\\Flights\\FlightOrchestor\\GetAvailableFlightOrchestrator.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\CQRS\\Flights\\FlightOrchestor\\GetAvailableFlightOrchestrator.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\CQRS\\Flights\\FlightOrchestor\\GetAvailableFlightOrchestrator.cs",
+              "RelativeToolTip": "FlyingProject\\CQRS\\Flights\\FlightOrchestor\\GetAvailableFlightOrchestrator.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T15:19:14.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\Entities\\main\\Ticket.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Project.core\\Entities\\main\\Ticket.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\Entities\\main\\Ticket.cs",
+              "RelativeToolTip": "FlyingProject\\Project.core\\Entities\\main\\Ticket.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T15:04:53.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "GetAllFlightsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\CQRS\\Flights\\Quries\\GetAllFlightsQuery.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\CQRS\\Flights\\Quries\\GetAllFlightsQuery.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\CQRS\\Flights\\Quries\\GetAllFlightsQuery.cs",
+              "RelativeToolTip": "FlyingProject\\CQRS\\Flights\\Quries\\GetAllFlightsQuery.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T15:19:24.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "getAvailableFlights.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Views\\Flight\\getAvailableFlights.cshtml",
+              "RelativeDocumentMoniker": "FlyingProject\\Views\\Flight\\getAvailableFlights.cshtml",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Views\\Flight\\getAvailableFlights.cshtml",
+              "RelativeToolTip": "FlyingProject\\Views\\Flight\\getAvailableFlights.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAwDQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T21:45:07.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IFlightAvailabilityService.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\ServiceContrect\\IFlightAvailabilityService.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Project.core\\ServiceContrect\\IFlightAvailabilityService.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\ServiceContrect\\IFlightAvailabilityService.cs",
+              "RelativeToolTip": "FlyingProject\\Project.core\\ServiceContrect\\IFlightAvailabilityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T19:12:11.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "GetAllFlights.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Views\\Flight\\GetAllFlights.cshtml",
+              "RelativeDocumentMoniker": "FlyingProject\\Views\\Flight\\GetAllFlights.cshtml",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Views\\Flight\\GetAllFlights.cshtml",
+              "RelativeToolTip": "FlyingProject\\Views\\Flight\\GetAllFlights.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T18:23:42.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "BaseQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Shared\\BaseQueryHandler.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Shared\\BaseQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Shared\\BaseQueryHandler.cs",
+              "RelativeToolTip": "FlyingProject\\Shared\\BaseQueryHandler.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwBsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T16:38:45.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\Entities\\main\\Flight.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Project.core\\Entities\\main\\Flight.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\Entities\\main\\Flight.cs",
+              "RelativeToolTip": "FlyingProject\\Project.core\\Entities\\main\\Flight.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T21:23:11.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "PaginatedListDto.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Shared\\PaginatedListDto.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Shared\\PaginatedListDto.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Shared\\PaginatedListDto.cs",
+              "RelativeToolTip": "FlyingProject\\Shared\\PaginatedListDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T16:40:51.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "EndpointRespone.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Shared\\EndpointRespone.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Shared\\EndpointRespone.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Shared\\EndpointRespone.cs",
+              "RelativeToolTip": "FlyingProject\\Shared\\EndpointRespone.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwCEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T18:15:52.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "UpdateAirlineDto.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\DTOS\\AirlineDto\\UpdateAirlineDto.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Project.core\\DTOS\\AirlineDto\\UpdateAirlineDto.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\DTOS\\AirlineDto\\UpdateAirlineDto.cs",
+              "RelativeToolTip": "FlyingProject\\Project.core\\DTOS\\AirlineDto\\UpdateAirlineDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T18:00:27.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Airlines.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\Entities\\main\\Airlines.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Project.core\\Entities\\main\\Airlines.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\Entities\\main\\Airlines.cs",
+              "RelativeToolTip": "FlyingProject\\Project.core\\Entities\\main\\Airlines.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T14:22:58.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "UpdateAirlinesCommend.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\CQRS\\Airline\\Commends\\UpdateAirlinesCommend.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\CQRS\\Airline\\Commends\\UpdateAirlinesCommend.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\CQRS\\Airline\\Commends\\UpdateAirlinesCommend.cs",
+              "RelativeToolTip": "FlyingProject\\CQRS\\Airline\\Commends\\UpdateAirlinesCommend.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAjwCQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T16:25:47.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Aircraft.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\Entities\\main\\Aircraft.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Project.core\\Entities\\main\\Aircraft.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\Entities\\main\\Aircraft.cs",
+              "RelativeToolTip": "FlyingProject\\Project.core\\Entities\\main\\Aircraft.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T14:22:54.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "AddAircraftDto.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\DTOS\\AircraftDtos\\AddAircraftDto.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Project.core\\DTOS\\AircraftDtos\\AddAircraftDto.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\DTOS\\AircraftDtos\\AddAircraftDto.cs",
+              "RelativeToolTip": "FlyingProject\\Project.core\\DTOS\\AircraftDtos\\AddAircraftDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T17:47:10.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "FlightUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\CQRS\\Flights\\Commends\\FlightUpdate.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\CQRS\\Flights\\Commends\\FlightUpdate.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\CQRS\\Flights\\Commends\\FlightUpdate.cs",
+              "RelativeToolTip": "FlyingProject\\CQRS\\Flights\\Commends\\FlightUpdate.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAjwDcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T21:12:59.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "GetFlightbyidQyery.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\CQRS\\Flights\\Quries\\GetFlightbyidQyery.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\CQRS\\Flights\\Quries\\GetFlightbyidQyery.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\CQRS\\Flights\\Quries\\GetFlightbyidQyery.cs",
+              "RelativeToolTip": "FlyingProject\\CQRS\\Flights\\Quries\\GetFlightbyidQyery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T15:14:37.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "FlightUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\DTOS\\FlightsDto\\FlightUpdateDto.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Project.core\\DTOS\\FlightsDto\\FlightUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\DTOS\\FlightsDto\\FlightUpdateDto.cs",
+              "RelativeToolTip": "FlyingProject\\Project.core\\DTOS\\FlightsDto\\FlightUpdateDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T18:30:15.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "UpdateFlightviewmodle.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\DTOS\\ViewModles\\UpdateFlightviewmodle.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Project.core\\DTOS\\ViewModles\\UpdateFlightviewmodle.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\DTOS\\ViewModles\\UpdateFlightviewmodle.cs",
+              "RelativeToolTip": "FlyingProject\\Project.core\\DTOS\\ViewModles\\UpdateFlightviewmodle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T21:21:23.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "FlightUpdate.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Views\\Flight\\FlightUpdate.cshtml",
+              "RelativeDocumentMoniker": "FlyingProject\\Views\\Flight\\FlightUpdate.cshtml",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Views\\Flight\\FlightUpdate.cshtml",
+              "RelativeToolTip": "FlyingProject\\Views\\Flight\\FlightUpdate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T16:17:32.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FlyingProject\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FlyingProject\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowBgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-14T17:36:45.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Seat.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\Entities\\main\\Seat.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Project.core\\Entities\\main\\Seat.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\Entities\\main\\Seat.cs",
+              "RelativeToolTip": "FlyingProject\\Project.core\\Entities\\main\\Seat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T17:13:25.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\Entities\\Identity\\AppUser.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Project.core\\Entities\\Identity\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\Entities\\Identity\\AppUser.cs",
+              "RelativeToolTip": "FlyingProject\\Project.core\\Entities\\Identity\\AppUser.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T18:42:10.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "20251011135824_create2t.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.Repo\\Data\\Migrations\\20251011135824_create2t.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Project.Repo\\Data\\Migrations\\20251011135824_create2t.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.Repo\\Data\\Migrations\\20251011135824_create2t.cs",
+              "RelativeToolTip": "FlyingProject\\Project.Repo\\Data\\Migrations\\20251011135824_create2t.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAmwHQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T13:58:24.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20251005183807_create1.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.Repo\\Data\\Migrations\\20251005183807_create1.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Project.Repo\\Data\\Migrations\\20251005183807_create1.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.Repo\\Data\\Migrations\\20251005183807_create1.cs",
+              "RelativeToolTip": "FlyingProject\\Project.Repo\\Data\\Migrations\\20251005183807_create1.cs",
+              "ViewState": "AgIAABQBAAAAAAAAAAAqwCQBAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T18:38:07.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "20251009190533_create3.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.Repo\\Data\\Migrations\\20251009190533_create3.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Project.Repo\\Data\\Migrations\\20251009190533_create3.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.Repo\\Data\\Migrations\\20251009190533_create3.cs",
+              "RelativeToolTip": "FlyingProject\\Project.Repo\\Data\\Migrations\\20251009190533_create3.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T19:05:34.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "GetPassngerbyPassportNumberQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\CQRS\\Passnger\\Query\\GetPassngerbyPassportNumberQuery.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\CQRS\\Passnger\\Query\\GetPassngerbyPassportNumberQuery.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\CQRS\\Passnger\\Query\\GetPassngerbyPassportNumberQuery.cs",
+              "RelativeToolTip": "FlyingProject\\CQRS\\Passnger\\Query\\GetPassngerbyPassportNumberQuery.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T16:30:56.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "GetAvailableSeatQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\CQRS\\Seats\\Coomends\\GetAvailableSeatQuery.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\CQRS\\Seats\\Coomends\\GetAvailableSeatQuery.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\CQRS\\Seats\\Coomends\\GetAvailableSeatQuery.cs",
+              "RelativeToolTip": "FlyingProject\\CQRS\\Seats\\Coomends\\GetAvailableSeatQuery.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T18:53:50.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "FlighSpicification.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Shared\\Specification\\FlighSpicification.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Shared\\Specification\\FlighSpicification.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Shared\\Specification\\FlighSpicification.cs",
+              "RelativeToolTip": "FlyingProject\\Shared\\Specification\\FlighSpicification.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T16:15:21.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "GetFlightByFlightNumber.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\CQRS\\Flights\\Quries\\GetFlightByFlightNumber.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\CQRS\\Flights\\Quries\\GetFlightByFlightNumber.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\CQRS\\Flights\\Quries\\GetFlightByFlightNumber.cs",
+              "RelativeToolTip": "FlyingProject\\CQRS\\Flights\\Quries\\GetFlightByFlightNumber.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwBEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T15:19:29.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\NewFolder\\InterfaceContrect\\IRepo.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Project.core\\NewFolder\\InterfaceContrect\\IRepo.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\NewFolder\\InterfaceContrect\\IRepo.cs",
+              "RelativeToolTip": "FlyingProject\\Project.core\\NewFolder\\InterfaceContrect\\IRepo.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T14:03:36.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "AirlineCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\DTOS\\AirlineDto\\AirlineCreateDto.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Project.core\\DTOS\\AirlineDto\\AirlineCreateDto.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\DTOS\\AirlineDto\\AirlineCreateDto.cs",
+              "RelativeToolTip": "FlyingProject\\Project.core\\DTOS\\AirlineDto\\AirlineCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T14:28:54.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "FlyightRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.Repo\\Repositories\\FlyightRepo.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Project.Repo\\Repositories\\FlyightRepo.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.Repo\\Repositories\\FlyightRepo.cs",
+              "RelativeToolTip": "FlyingProject\\Project.Repo\\Repositories\\FlyightRepo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T15:19:40.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "TicketSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Shared\\Specification\\TicketSpecification.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Shared\\Specification\\TicketSpecification.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Shared\\Specification\\TicketSpecification.cs",
+              "RelativeToolTip": "FlyingProject\\Shared\\Specification\\TicketSpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T20:05:04.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "PassngerSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Shared\\Specification\\PassngerSpecification.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Shared\\Specification\\PassngerSpecification.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Shared\\Specification\\PassngerSpecification.cs",
+              "RelativeToolTip": "FlyingProject\\Shared\\Specification\\PassngerSpecification.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T16:14:52.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "SeatsRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.Repo\\Repositories\\SeatsRepo.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Project.Repo\\Repositories\\SeatsRepo.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.Repo\\Repositories\\SeatsRepo.cs",
+              "RelativeToolTip": "FlyingProject\\Project.Repo\\Repositories\\SeatsRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T15:19:49.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "BaseSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Shared\\Specification\\BaseSpecification.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Shared\\Specification\\BaseSpecification.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Shared\\Specification\\BaseSpecification.cs",
+              "RelativeToolTip": "FlyingProject\\Shared\\Specification\\BaseSpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T16:16:30.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "TicketRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.Repo\\Repositories\\TicketRepo.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Project.Repo\\Repositories\\TicketRepo.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.Repo\\Repositories\\TicketRepo.cs",
+              "RelativeToolTip": "FlyingProject\\Project.Repo\\Repositories\\TicketRepo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T15:19:57.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "ITicketsrepo.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\NewFolder\\InterfaceContrect\\ITicketsrepo.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Project.core\\NewFolder\\InterfaceContrect\\ITicketsrepo.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\NewFolder\\InterfaceContrect\\ITicketsrepo.cs",
+              "RelativeToolTip": "FlyingProject\\Project.core\\NewFolder\\InterfaceContrect\\ITicketsrepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T14:54:29.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "specificationEvaluator.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Shared\\Specification\\specificationEvaluator.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Shared\\Specification\\specificationEvaluator.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Shared\\Specification\\specificationEvaluator.cs",
+              "RelativeToolTip": "FlyingProject\\Shared\\Specification\\specificationEvaluator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T14:53:37.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "ISetsRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\NewFolder\\InterfaceContrect\\ISetsRepo.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Project.core\\NewFolder\\InterfaceContrect\\ISetsRepo.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\NewFolder\\InterfaceContrect\\ISetsRepo.cs",
+              "RelativeToolTip": "FlyingProject\\Project.core\\NewFolder\\InterfaceContrect\\ISetsRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T14:52:42.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "ISpecification.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Shared\\Specification\\ISpecification.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Shared\\Specification\\ISpecification.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Shared\\Specification\\ISpecification.cs",
+              "RelativeToolTip": "FlyingProject\\Shared\\Specification\\ISpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T17:18:16.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\Entities\\main\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Project.core\\Entities\\main\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\Entities\\main\\BaseEntity.cs",
+              "RelativeToolTip": "FlyingProject\\Project.core\\Entities\\main\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T14:49:48.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "IFlightRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\NewFolder\\InterfaceContrect\\IFlightRepo.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Project.core\\NewFolder\\InterfaceContrect\\IFlightRepo.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\NewFolder\\InterfaceContrect\\IFlightRepo.cs",
+              "RelativeToolTip": "FlyingProject\\Project.core\\NewFolder\\InterfaceContrect\\IFlightRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T15:39:42.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\Entities\\main\\Payment.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Project.core\\Entities\\main\\Payment.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\Entities\\main\\Payment.cs",
+              "RelativeToolTip": "FlyingProject\\Project.core\\Entities\\main\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T19:18:38.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "Passenger.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\Entities\\main\\Passenger.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Project.core\\Entities\\main\\Passenger.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\Entities\\main\\Passenger.cs",
+              "RelativeToolTip": "FlyingProject\\Project.core\\Entities\\main\\Passenger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T16:11:44.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "TicketDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Views\\Flight\\TicketDetails.cshtml",
+              "RelativeDocumentMoniker": "FlyingProject\\Views\\Flight\\TicketDetails.cshtml",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Views\\Flight\\TicketDetails.cshtml",
+              "RelativeToolTip": "FlyingProject\\Views\\Flight\\TicketDetails.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T20:08:08.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "Signup.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Views\\Acount\\Signup.cshtml",
+              "RelativeDocumentMoniker": "FlyingProject\\Views\\Acount\\Signup.cshtml",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Views\\Acount\\Signup.cshtml",
+              "RelativeToolTip": "FlyingProject\\Views\\Acount\\Signup.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T18:22:13.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "RigsterviewModler.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\DTOS\\ViewModles\\RigsterviewModler.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Project.core\\DTOS\\ViewModles\\RigsterviewModler.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\DTOS\\ViewModles\\RigsterviewModler.cs",
+              "RelativeToolTip": "FlyingProject\\Project.core\\DTOS\\ViewModles\\RigsterviewModler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T16:22:27.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "Signin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Views\\Acount\\Signin.cshtml",
+              "RelativeDocumentMoniker": "FlyingProject\\Views\\Acount\\Signin.cshtml",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Views\\Acount\\Signin.cshtml",
+              "RelativeToolTip": "FlyingProject\\Views\\Acount\\Signin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T14:40:45.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "IunitofWork.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\IunitofWork.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Project.core\\IunitofWork.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\IunitofWork.cs",
+              "RelativeToolTip": "FlyingProject\\Project.core\\IunitofWork.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T16:08:43.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "IattachmentService.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Shared\\attachmentService\\IattachmentService.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Shared\\attachmentService\\IattachmentService.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Shared\\attachmentService\\IattachmentService.cs",
+              "RelativeToolTip": "FlyingProject\\Shared\\attachmentService\\IattachmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T17:23:12.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "IUpdateFlightsCommandOrchestrator.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\CQRS\\CQRSContracts\\IUpdateFlightsCommandOrchestrator.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\CQRS\\CQRSContracts\\IUpdateFlightsCommandOrchestrator.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\CQRS\\CQRSContracts\\IUpdateFlightsCommandOrchestrator.cs",
+              "RelativeToolTip": "FlyingProject\\CQRS\\CQRSContracts\\IUpdateFlightsCommandOrchestrator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T17:19:02.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "FlyingProject.csproj",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\FlyingProject.csproj",
+              "RelativeDocumentMoniker": "FlyingProject\\FlyingProject.csproj",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\FlyingProject.csproj",
+              "RelativeToolTip": "FlyingProject\\FlyingProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-09T17:17:48.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "LoginViewModle.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\DTOS\\ViewModles\\LoginViewModle.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Project.core\\DTOS\\ViewModles\\LoginViewModle.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\DTOS\\ViewModles\\LoginViewModle.cs",
+              "RelativeToolTip": "FlyingProject\\Project.core\\DTOS\\ViewModles\\LoginViewModle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T18:46:00.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "PassengerConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.Repo\\Data\\Configration\\PassengerConfiguration.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Project.Repo\\Data\\Configration\\PassengerConfiguration.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.Repo\\Data\\Configration\\PassengerConfiguration.cs",
+              "RelativeToolTip": "FlyingProject\\Project.Repo\\Data\\Configration\\PassengerConfiguration.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T18:19:52.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "PassngerRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.Repo\\Repositories\\PassngerRepo.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Project.Repo\\Repositories\\PassngerRepo.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.Repo\\Repositories\\PassngerRepo.cs",
+              "RelativeToolTip": "FlyingProject\\Project.Repo\\Repositories\\PassngerRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T16:06:21.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "IpassengerRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\NewFolder\\InterfaceContrect\\IpassengerRepo.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Project.core\\NewFolder\\InterfaceContrect\\IpassengerRepo.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\NewFolder\\InterfaceContrect\\IpassengerRepo.cs",
+              "RelativeToolTip": "FlyingProject\\Project.core\\NewFolder\\InterfaceContrect\\IpassengerRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T15:39:16.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "IdentityApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.Repo\\Data\\Identity\\IdentityContext\\IdentityApplicationContext.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Project.Repo\\Data\\Identity\\IdentityContext\\IdentityApplicationContext.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.Repo\\Data\\Identity\\IdentityContext\\IdentityApplicationContext.cs",
+              "RelativeToolTip": "FlyingProject\\Project.Repo\\Data\\Identity\\IdentityContext\\IdentityApplicationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T18:39:22.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "FlightConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.Repo\\Data\\Configration\\FlightConfiguration.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Project.Repo\\Data\\Configration\\FlightConfiguration.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.Repo\\Data\\Configration\\FlightConfiguration.cs",
+              "RelativeToolTip": "FlyingProject\\Project.Repo\\Data\\Configration\\FlightConfiguration.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwB4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T16:55:08.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "Book.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Views\\Flight\\Book.cshtml",
+              "RelativeDocumentMoniker": "FlyingProject\\Views\\Flight\\Book.cshtml",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Views\\Flight\\Book.cshtml",
+              "RelativeToolTip": "FlyingProject\\Views\\Flight\\Book.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T20:39:33.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Views\\Flight\\Details.cshtml",
+              "RelativeDocumentMoniker": "FlyingProject\\Views\\Flight\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Views\\Flight\\Details.cshtml",
+              "RelativeToolTip": "FlyingProject\\Views\\Flight\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T20:12:14.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "CreateTicktDto.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\DTOS\\TicktDto\\CreateTicktDto.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Project.core\\DTOS\\TicktDto\\CreateTicktDto.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\DTOS\\TicktDto\\CreateTicktDto.cs",
+              "RelativeToolTip": "FlyingProject\\Project.core\\DTOS\\TicktDto\\CreateTicktDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T15:07:21.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "FlightProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\MappingProfiles\\FlightProfile.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Project.core\\MappingProfiles\\FlightProfile.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\MappingProfiles\\FlightProfile.cs",
+              "RelativeToolTip": "FlyingProject\\Project.core\\MappingProfiles\\FlightProfile.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T21:26:44.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "IFlightBookOrchestor.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\ServiceContrect\\IFlightBookOrchestor.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Project.core\\ServiceContrect\\IFlightBookOrchestor.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\ServiceContrect\\IFlightBookOrchestor.cs",
+              "RelativeToolTip": "FlyingProject\\Project.core\\ServiceContrect\\IFlightBookOrchestor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T20:27:44.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "FlightBookviewmodle.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\DTOS\\ViewModles\\FlightBookviewmodle.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Project.core\\DTOS\\ViewModles\\FlightBookviewmodle.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.core\\DTOS\\ViewModles\\FlightBookviewmodle.cs",
+              "RelativeToolTip": "FlyingProject\\Project.core\\DTOS\\ViewModles\\FlightBookviewmodle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T20:45:15.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "TicketConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.Repo\\Data\\Configration\\TicketConfiguration.cs",
+              "RelativeDocumentMoniker": "FlyingProject\\Project.Repo\\Data\\Configration\\TicketConfiguration.cs",
+              "ToolTip": "C:\\Users\\Eng Khaled\\source\\repos\\FlyingProject\\FlyingProject\\Project.Repo\\Data\\Configration\\TicketConfiguration.cs",
+              "RelativeToolTip": "FlyingProject\\Project.Repo\\Data\\Configration\\TicketConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T17:41:05.851Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
